@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains a few lines of text to demonstrate file compression in C++ using zlib.
+Feel free to add more content to see the effect of compression.
